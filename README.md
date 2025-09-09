@@ -5,7 +5,7 @@ Turn your PDFs into a **searchable knowledge base** and perform **question answe
 
 ---
 
-## ✨ Features
+## Features
 
 -  **PDF Text Extraction** – Cleanly extract text using `pdfplumber`
 -  **Semantic Search** – Chunk text and store in ChromaDB for fast retrieval
